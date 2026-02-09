@@ -35,8 +35,7 @@ const Bigbanner = () => {
           <div className="sale_box">
             Sale up to <br /> <strong>60%</strong>
           </div>
-          <div className="price_box">
-            <span className="old_price">$305.00</span>
+          <div className="price_box"> 
             <span className="current_price">$259.00</span>
           </div>
         </div>

@@ -18,7 +18,6 @@ const MacBanner = () => {
 
       <div className="mac_right">
         <p className="old_price">$755.00</p>
-        <h1 className="new_price">$655.00</h1>
         <p className="credit">10% off when paying<br />by credit card</p>
         <button>Shop Now</button>
       </div>

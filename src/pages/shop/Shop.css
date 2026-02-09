@@ -120,7 +120,6 @@
 
 .contact-list li {
   display: flex;
-  align-items: flex-start;
   gap: 10px;
   color: #b0b0b0;
   font-size: 14px;

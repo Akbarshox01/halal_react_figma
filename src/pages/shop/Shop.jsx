@@ -1,7 +1,6 @@
 import React from 'react';
 import logo from '../../assets/LOGO.png';
-import "../../styles/shop.css";
-
+import './shop.css';
 import { FaStar } from 'react-icons/fa';
 
 import { FaMapMarkerAlt, FaPhoneAlt, FaEnvelope } from 'react-icons/fa'; 
