@@ -1,4 +1,4 @@
-import './MacBanner.css'
+import './Macbanner.css'
 import apple from '../../assets/cutebanner.png' 
 
 const MacBanner = () => {
@@ -6,7 +6,7 @@ const MacBanner = () => {
     <div className="mac_banner">
       <div className="mac_left">
         <img className="mac_logo" src={apple} alt="apple" />
-
+<p></p>
         <h2>Apple MacBook<br />Air M1 256GB 2023</h2>
 
         <ul>
